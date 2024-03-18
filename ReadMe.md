@@ -1,4 +1,4 @@
-## RMCR-Net
+## **RMCR-Net**
 This repo is the implementation of the paper: Recurrent Multi-View Collaborative Registration Network for 3D Reconstruction and Optical Measurement of Blade Profiles. 
 
 Paper address:***
