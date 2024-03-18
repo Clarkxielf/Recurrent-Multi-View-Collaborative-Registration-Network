@@ -1,4 +1,4 @@
-## **RMCR-Net**
+## **Recurrent Multi-View Collaborative Registration Network for 3D Reconstruction and Optical Measurement of Blade Profiles**
 This repo is the implementation of the paper: Recurrent Multi-View Collaborative Registration Network for 3D Reconstruction and Optical Measurement of Blade Profiles. 
 
 Paper address:***
@@ -16,7 +16,7 @@ Aligning multiple viewpoints to reconstruct a complete profile is a crucial aspe
 + 2.We design RMCR-Net, a learning framework introduced to recover the transformation vector by extracting adaptive feature embeddings from the initial spatial representation of viewpoints. This approach effectively overcomes the challenge of finding approximate point correspondences based on spatial coordinates for recovering the transformer vector. Furthermore, we seamlessly integrate an elaborate Recurrent Updating Strategy (RUS) into the framework, iteratively refining the transformation vector and thereby mitigating biases within it.
 + 3.We assess the reliability of the proposed method through experiments conducted on three representative turbine blades. Extensive analysis and experimental results from both theoretical datasets and real-world data, compared with nine state-of-the-art algorithms, consistently demonstrate that the proposed method exhibits superior accuracy, time-efficiency, and robustness. It meets the high-precision measurement requirements at the 0.01 mm level for complex blade profiles.
 
-### Network Architecture
+### RMCR-Net
 ![avatar](./images/网络全框架.png)
 
 ### Citation
